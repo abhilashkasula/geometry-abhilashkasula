@@ -1,2 +1,2 @@
 # geometry-abhilashkasula
-test for sukhi linter
+test for linter
